@@ -31,7 +31,7 @@ _Here are some ways to help me work with you better_
 - **Zero feedback**  This is a bit of a double edge as frank conversation can be difficult if I haven't built the relationship as I can easily take it as an attack on me, but a person or people who aren't willing to have a two way conversation makes the product as a whole worse.  Let me come up with an idea and then let's have a conversation on what's good and bad to keep improving it or scrap it for another try.
 
 ### Some known flaws
-- I often don't show work early because the tendency is to then get feedback about half backed things and I get frustrated because "it's not done yet".  
+- I often don't show work early because the tendency is to then get feedback about half baked things and I get frustrated because "it's not done yet".  
 - I prefer almost everything to refactoring.  Something that works I tend to :shrug: and move on to something else.  I rarely go through and make sweeping changes unless it's a known initiative or it's my first time on a codebase.  This stems a bit on my belief that unless it's performance based, it's opinion based and I don't hold strong.
 - I have opinions, but tend to keep them to myself when not in a lead role. "Too many cooks in the kitchen".  If you really want to know my opinions have a 1 on 1 with me as I'm generally pretty honest.  
 - People who don't give grace in development are hard to work with for me.  I get anxious with buggy code and so I work very hard to not release bugs. However, when people aren't willing to understand sometimes things break in tech I have little patience for.
