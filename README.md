@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I grew up in NW Iowa in a small town of about 5000.  While there was less to do then a large city, it gave me the opportunity to try and do a lot of different things.  Because of that, generally I enjoy conversations about most things - just not seafood.
+I grew up in NW Iowa in a small town of about 5000.  While there was less to do than a large city, it gave me the opportunity to try and do a lot of different things.  Because of that, generally I enjoy conversations about most things - just not seafood.
 
 I have 2 (and a 3rd on the way) kids - girl, boy, girl.  I've learned a lot and who I am more because of them.  I love spending time with them and seeing them grow.  I am married and have been with my wife since high school.
 
@@ -14,8 +14,8 @@ _Here are some ways to help me work with you better_
 - I work 100% remotely and enjoy that flexibility.
 - I've switched into a person who does their most focused work in the morning and am a bit more freeflow in the afternoon.
 - It's important for me to have "off" times where I don't feel on call all the time.  As if I don't, I'm always tense about responding right away and get worn out.
-- I am not a meeting person.  Generally most meetings fall into the bullet list or email category for me, however I do find meetings valuable for discussion on ideas and for setting expectations as slack or email can lose tone and context.  Also, if it's something important or serious to say I always prefer talking 1 on 1 vs trying some other medium.  All that said, I am a person who would rather meet then have miscommunication or have a missing tone so something gets misconstrued. 
-- For ideas I generally need time to process them.  Sometimes a good sleep or a couple days to let my brain process it comes to a better solution then giving a first opinion.
+- I am not a meeting person.  Generally most meetings fall into the bullet list or email category for me, however I do find meetings valuable for discussion on ideas and for setting expectations as slack or email can lose tone and context.  Also, if it's something important or serious to say I always prefer talking 1 on 1 vs trying some other medium.  All that said, I am a person who would rather meet than have miscommunication or have a missing tone so something gets misconstrued. 
+- For ideas I generally need time to process them.  Sometimes a good sleep or a couple days to let my brain process it comes to a better solution than giving a first opinion.
 - I've always had the mentality of "Fail Fast" so I generally prefer to quick iterate and keep progressing on it or scrap it for something else
 
 ### What motivates me
