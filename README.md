@@ -2,7 +2,7 @@
 
 I grew up in NW Iowa in a small town of about 5000.  While there was less to do than a large city, it gave me the opportunity to try and do a lot of different things.  Because of that, generally I enjoy conversations about most things - just not seafood.
 
-I have 2 (and a 3rd on the way) kids - girl, boy, girl.  I've learned a lot and who I am more because of them.  I love spending time with them and seeing them grow.  I am married and have been with my wife since high school.
+I have 3 kids - girl (6ish), boy (4ish), girl (3 months-ish).  I've learned a lot and who I am more because of them.  I love spending time with them and seeing them grow.  I am married and have been with my wife since high school.
 
 I was fortunate to start programming at a company I loved working for right out of college in 2010.  They helped shape some opinions and helped make clear where my best skills are and where I fall short.
 
@@ -21,7 +21,7 @@ _Here are some ways to help me work with you better_
 ### What motivates me
 - **Innovation and new things (whether technology or just new ideas)**  I have always loved new technology and learning.  If my brain isn't getting pushed then I tend to be bored and looking for something else to engage in
 - **Making others day-to-day better and/or more efficient** My favorite projects have been ones that directly improve colleagues day to day and make it a better day for them.
-- **Larger initiatives** Tied to the first one, it takes a lot of thought, organize, and new ideas to build larger scale things
+- **Larger initiatives** Tied to the first one, it takes a lot of thought, organization, and new ideas to build larger scale things
 - **Great UI and high quality design** I was fortunate to start my career with a company that had strong designers and since I've seen what great design looks like, I continue to try and make functional, well thought through, and good looking things.  Generally of all things in the coding process, the look of it is what drives me the most. (Which is often why just backend work doesn't interest me)
 - **Being creative**
 
