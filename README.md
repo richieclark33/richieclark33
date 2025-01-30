@@ -39,12 +39,13 @@ _Here are some ways to help me work with you better_
 ### Working environment
 I've worked in a lot of different situations and ways of doing things so don't hold strongly to "I must work in a ___ style".  I prefer more freedom and less hand holding.  When I say I'm going to do something, it's very rare I don't.  I prefer setting "what needs to be done" and then letting me do it.  I often find daily "what am I doing" to end up false by the end of the day because of the nature of how devs days go.  I'll do it if required, just find it a little :shrug:.  Much prefer to set a weekly routine and then let me do it.
 
-
-
+### Workstyle quiz
+![Screenshot 2025-01-30 154353](https://github.com/user-attachments/assets/d8bd49f4-b162-4d71-b4e8-9a61a6ee650c)
 
 
 <!--
 **richieclark33/richieclark33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
