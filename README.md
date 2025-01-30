@@ -2,7 +2,7 @@
 
 I grew up in NW Iowa in a small town of about 5000.  While there was less to do than a large city, it gave me the opportunity to try and do a lot of different things.  Because of that, generally I enjoy conversations about most things - just not seafood.
 
-I have 3 kids - girl (6ish), boy (4ish), girl (3 months-ish).  I've learned a lot and who I am more because of them.  I love spending time with them and seeing them grow.  I am married and have been with my wife since high school.
+I have 3 kids - girl (7ish), boy (5ish), girl (2-ish).  I've learned a lot and who I am more because of them.  I love spending time with them and seeing them grow.  I am married and have been with my wife since high school.
 
 I was fortunate to start programming at a company I loved working for right out of college in 2010.  They helped shape some opinions and helped make clear where my best skills are and where I fall short.
 
